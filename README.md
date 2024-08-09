@@ -1,0 +1,3 @@
+A project management system built with Laravel 11 Breeze API and React frontend on Vite. 
+
+In Progress...
